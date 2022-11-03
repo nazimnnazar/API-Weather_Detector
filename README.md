@@ -5,9 +5,6 @@ A Weather APP with Python & Django. Connects to the OpenWeather API.
 <!--- Describe your app in one or two sentences -->
 CuteWeather is a beautiful weather app build in Jetpack Compose
 
-
-<img src="app/src/main/res/drawable/ic_launcher.png" width=120 align=left hspace="10" vspace="10"  >
-
 - Easy to use, single screen display all content
 - Various weather effects with cute animation including sunny, rainy, snowy, etc
 - Daily and hourly temperature trends chart
