@@ -3,7 +3,7 @@ A Weather APP with Python & Django. Connects to the OpenWeather API.
 
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
-CuteWeather is a beautiful weather app build in Jetpack Compose
+CuteWeather is a beautiful weather app build in Django
 
 - Easy to use, single screen display all content
 - Various weather effects with cute animation including sunny, rainy, snowy, etc
@@ -11,4 +11,4 @@ CuteWeather is a beautiful weather app build in Jetpack Compose
 - Switch between Fahrenheit and centigrade
 - Support Talkback of android accessibility
 
-see more:  [Android Dev Challenge: Week #4: Weather app](https://android-developers.googleblog.com/2021/03/android-dev-challenge-4.html)
+# ScreenShot
