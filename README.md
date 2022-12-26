@@ -4,7 +4,7 @@ A Weather APP with Python & Django. Connects to the OpenWeather API.
 # API
 ![weather api](https://user-images.githubusercontent.com/112808009/199664936-d258b6e5-5369-418e-bad3-8ac95afa909f.png)
 
-
+/
 
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
